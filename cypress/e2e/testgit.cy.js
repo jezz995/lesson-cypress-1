@@ -2,6 +2,7 @@
 
 it ('google search', () =>{
 
-    cy.visit('https://www.tokopedia.com/')
+    cy.visit('https://google.com/')
+    
 
 })
